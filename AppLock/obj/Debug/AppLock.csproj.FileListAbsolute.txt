@@ -1,0 +1,15 @@
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.Form1.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\bin\Debug\AppLock.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\bin\Debug\AppLock.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\bin\Debug\AppLock.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\bin\Debug\Guna.UI2.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\bin\Debug\Siticone.UI.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.csproj.ResolveComReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.csproj.Up2Date
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\AppLock\AppLock\obj\Debug\AppLock.pdb
